@@ -1,0 +1,24 @@
+{
+  "emolyeePayroll": [
+    {
+      "id": 1,
+      "name": "suraj",
+      "salary": "400000"
+    },
+    {
+      "id": 2,
+      "name": "Rohit",
+      "salary": "2000"
+    },
+    {
+      "id": 3,
+      "name": "vivek",
+      "salary": "3000"
+    },
+    {
+      "name": "Rohit",
+      "salary": "3000",
+      "id": 4
+    }
+  ]
+}
